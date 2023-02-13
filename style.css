@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 
 body {
-    height: 100vh;
+    height: 102vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -11,7 +11,7 @@ body {
 
 .bebebb-img {
     position: relative;
-    width: 390px;
+    width: 388px;
     height: 360px;
     top: 70px;
     background: url(Ayangg.jpg) no-repeat center whitesmoke;
@@ -19,8 +19,7 @@ body {
     border: 10px solid whitesmoke;
     border-radius: 20px;
     box-shadow: 0 0 100px rgba(0, 0, 0, .4);
-    display: flex;
-    flex-direction: row;
+
     -webkit-border-radius: 20px;
     -moz-border-radius: 20px;
     -ms-border-radius: 20px;
@@ -29,7 +28,7 @@ body {
 
 .valentines-day-card {
     position: relative;
-    width: 390px;
+    width: 388px;
     height: 360px;
     top: 70px;
     background-color: #75ffe6da;
@@ -37,8 +36,7 @@ body {
     border: 10px solid whitesmoke;
     border-radius: 20px;
     box-shadow: 0 0 100px rgba(0, 0, 0, .4);
-    display: flex;
-    flex-direction: row;
+
     -webkit-border-radius: 20px;
     -moz-border-radius: 20px;
     -ms-border-radius: 20px;
